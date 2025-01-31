@@ -1,2 +1,3 @@
-      MYSQL_USER: example_user
 # grafana-mysql-experiment
+
+![open_prs](assets/open_prs.png)
